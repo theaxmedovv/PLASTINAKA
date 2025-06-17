@@ -3,19 +3,8 @@
 **PLASTINAKA** is an eco-conscious web project built using **HTML, CSS, and JavaScript**.  
 The aim of the project is to raise awareness about plastic materials and provide a platform for their distribution or sale.
 
----
+# image:
 
-## 📁 Project Structure
-
-PLASTINAKA/
-│
-├── index.html # Main homepage
-├── style/ # CSS files
-├── js/ # JavaScript files
-├── images/ # Image assets
-└── fonts/ # Custom fonts
-
----
 
 ## 🌐 Technologies Used
 
